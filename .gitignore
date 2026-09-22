@@ -1,1 +1,10 @@
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/terraform
+
+# Environment/secrets
 .env
+.env.*
+*.pem
